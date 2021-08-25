@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>testDLL/SampleDLL.dll</file>
+    </qresource>
+</RCC>
